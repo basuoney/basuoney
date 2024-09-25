@@ -93,8 +93,34 @@
 ![SPSS](https://img.shields.io/badge/SPSS-3776AB?style=flat&logo=spss&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=sql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-3776AB?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### 📈 Data Science Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
+
+### ☁️ AWS Cloud Practitioner Certified
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+## 🌟 Soft Skills
+
+### 🎯 Problem-Solving & Critical Thinking
+- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
+
+### 🧑‍🤝‍🧑 Teamwork & Collaboration
+- Experience working in **cross-functional teams**.
+- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
+
+### 💡 Creativity & Innovation
+- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
+
+### 📅 Time Management & Organization
+- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
+
+### 🎙️ Communication & Presentation
+- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
+- Proficient in **presenting data-driven findings** clearly and persuasively.
+
+### 📈 Continuous Learning
+- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
