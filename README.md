@@ -46,8 +46,8 @@
 
 - ![University Badge](https://img.shields.io/badge/Health_Information_technolohy_and_research_training_center_HITSTC-0055A4?style=flat&logo=university&logoColor=white)
 ---
-#### Data Analysis Course**
-- (https://img.shields.io/badge/Digital_Egyptian_Pioneers_initiative_(DEPI)-0055A4?style=flat&logo=university&logoColor=white)
+#### **Data Analysis Course**
+- ![University Badge](https://img.shields.io/badge/Digital_Egyptian_Pioneers_initiative_(DEPI)-0055A4?style=flat&logo=university&logoColor=white)
 ---
 
 <br>
