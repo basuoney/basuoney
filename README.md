@@ -37,11 +37,17 @@
 ### 🎓 Education
 
 ---
+#### 🏫 **Bachelor's Degree in clinical pharmacy**
+
+- ![University Badge](https://img.shields.io/badge/Damanhour_University-0055A4?style=flat&logo=university&logoColor=white)
+
+---
+
+---
 
 #### 🏫 **Diploma in Health Information Technology**
 
-- ![University Badge](https://img.shields.io/badge/Egyptian_Universities-0055A4?style=flat&logo=university&logoColor=white)
-- ![Duration Badge](https://img.shields.io/badge/Duration-2023%20–%202025-yellow)
+- ![University Badge](https://img.shields.io/badge/Health_Information_technolohy_and_research_training_center_HITSTC-0055A4?style=flat&logo=university&logoColor=white)
 
 ---
 
