@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/...)  
+- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1Jz8VAlUysKt7CJmZqFAKXwfHj0FH29pT3Itnfolnl9g/edit?usp=sharing)  
 - 💬 **Ask me about**: SPSS, R, Python, SQL, Biostatistics, Clinical Research  
 - 📫 **Reach me at**: [melbasuoney@gmail.com](mailto:melbasuoney@gmail.com) | **01500039556**  
 - ⚡ **Fun fact**: I have a passion for healthcare data and its potential!  
