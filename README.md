@@ -42,13 +42,11 @@
 - ![University Badge](https://img.shields.io/badge/Damanhour_University-0055A4?style=flat&logo=university&logoColor=white)
 
 ---
-
----
-
 #### 🏫 **Diploma in Health Information Technology**
 
 - ![University Badge](https://img.shields.io/badge/Health_Information_technolohy_and_research_training_center_HITSTC-0055A4?style=flat&logo=university&logoColor=white)
-
+---
+- **Data Analysis Course** – Digital Egyptian Pioneers Initiative (DEPI)
 ---
 
 <br>
